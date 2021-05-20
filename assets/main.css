@@ -2,6 +2,9 @@ body {
     font-family: 'Roboto Mono', monospace;
     color: rgb(250, 250, 250);
     background-color: black;
+    max-width: 740px;
+    min-width: 300px;
+    margin: 0 auto;
 }
 
 a {
