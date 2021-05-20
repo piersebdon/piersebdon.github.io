@@ -16,6 +16,10 @@ a:hover {
     color: deeppink;
 }
 
+a:active {
+    color: gray;
+}
+
 p {
     font-size: 1em;
 }
