@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -29,16 +30,16 @@ a:active {
 }
 
 p {
-    font-size: 1em;
-    margin: 15px;
-    line-height: 1.5em;
+    font-size: 1rem;
+    margin: 20px;
+    line-height: 1.5rem;
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2rem;
     padding: 0 10px;
     text-align: center;
-    margin: 15px 0;
+    margin: 20px 0;
 }
 
 hr {
@@ -46,5 +47,5 @@ hr {
     height: 2px;
     border: 0;
     border-top: 2px solid darkgray;
-    margin: 0 15px;
+    margin: 0 20px;
 }
